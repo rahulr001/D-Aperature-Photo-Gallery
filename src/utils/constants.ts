@@ -3,7 +3,7 @@ import { dp } from "../assets";
 export const Gallery = [
   {
     name: "dp",
-    url: dp,
+    url: "https://photos.app.goo.gl/PfGcGtYLBBsztBAu9",
   },
   {
     name: "dp",
